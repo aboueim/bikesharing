@@ -11,7 +11,7 @@ The following link gives access to visit the Tableau file create to visualize bi
  
 https://public.tableau.com/views/ChallengeAssignment_16704584045550/CheckoutTimesforUsers?:language=en-US&:display_count=n&:origin=viz_share_link
   
-Below I provided some details on the results of the analysis.
+The Tableau workbook include 7 worksheets and a story. Below I provided some insights from the results of the visualization in Tableau.
 
 ### Checkout Times for Users:
  
