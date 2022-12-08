@@ -45,9 +45,9 @@ Majority of Bikesharing use is attributed to subscribers (1,900,359 rides). The 
  
 ![This is an image](Customers.png)
 
+### Top Starting Locations:
  
 According to the bikesharing data, Manhattan is the most popular region for bikesharing in New York City.
-
  
 ![This is an image](Top_Starting_Locations.png)
 
