@@ -7,7 +7,7 @@ In this project, I will create a Tableau story aimed to convince investors that 
 
 ###
 
-![This is an image](Checkout Times for Users.png)
+![This is an image](Checkout Times for Users.png) 
 
 
 
