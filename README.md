@@ -11,7 +11,7 @@ https://public.tableau.com/views/ChallengeAssignment_16704584045550/CheckoutTime
 
 ###
 
-![This is an image](Checkout Times for Users.png) 
+![This is an image](Checkout_Times_for_Users.png) 
 
 
 
