@@ -15,19 +15,19 @@ Below I provided some details on the results of the analysis.
 
 ### Checkout Times for Users:
  
-The chart shows that the majority of bike rides lasted for less than hour where the highest number of rides being for 5 minutes.
+This chart shows that the majority of bike rides lasted for less than hour where the highest number of rides being for 5 minutes.
  
 ![This is an image](Checkout_Times_for_Users.png) 
  
 ### Checkout Times by Gender:
  
-According to this viz, males comprise the biggest share of rides occured in August. However, the bike riding pattern remains the same across genders, with range of 0 to 10 minutes as the most common riding time.
+According to this chart, males comprise the biggest share of rides occured in August. However, the bike riding pattern remains the same across genders, with range of 0 to 10 minutes as the most common riding time.
  
 ![This is an image](Checkout_Times_by_Gender.png) 
  
 ### Trips by Weekday for Each Hour:
  
-Based on the heatmatmap, bike riders use biksharing more often at 7 to 9 am in the morning and 5 to 7 pm in the evening during business days. Whereas, bikesharing use pattern is evenly distributed over the daytime (from 9 am to 6 pm) on the weekends.
+Based on the following heatmatmap, bike riders use biksharing more often at 7 to 9 am in the morning and 5 to 7 pm in the evening during business days. Whereas, bikesharing use pattern is evenly distributed over the daytime (from 9 am to 6 pm) on the weekends.
  
 ![This is an image](Trips_by_Weekday_for_Each_Hour.png) 
  
