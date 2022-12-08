@@ -20,6 +20,17 @@ https://public.tableau.com/views/ChallengeAssignment_16704584045550/CheckoutTime
 ![This is an image](Trips_by_Weekday_for_Each_Hour.png) 
 
 
+![This is an image](Trips_by_Gender_(Weekday per Hour).png)
+
+
+![This is an image](Trips_by_Gender_by_Weekday.png)
+
+
+![This is an image](Customers.png)
+
+
+![This is an image](Top_Starting_Locations.png)
+
 ## Summary: 
 
 Provide a high-level summary of the results and two additional visualizations that you would perform with the given dataset.
