@@ -31,7 +31,7 @@ Based on the heatmatmap, bike riders use biksharing more often at 7 to 9 am in t
  
 Comparing genders in terms of how females vs male vs unknown use bikesharing over the week, we can see that males and female almost follow a same use behavior per weekday and hour, although number of males using this service is much more the others. However, in the unknown group, it looks like that they mostly used bikesharing on weekeneds rather than during business days.
  
-![This is an image](Trips_by_Gender_(Weekday per Hour).png)
+![This is an image](Trips_by_Gender_(Weekday_per_Hour).png)
  
 ### Trips by Gender by Weekday:
  
