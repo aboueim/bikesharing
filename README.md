@@ -5,6 +5,10 @@ In this project, I will create a Tableau story aimed to convince investors that 
 
 ## Results: 
 
+### Link to Tableau Public:
+
+https://public.tableau.com/views/ChallengeAssignment_16704584045550/CheckoutTimesforUsers?:language=en-US&:display_count=n&:origin=viz_share_link
+
 ###
 
 ![This is an image](/Checkout Times for Users.png) 
