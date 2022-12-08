@@ -14,8 +14,10 @@ https://public.tableau.com/views/ChallengeAssignment_16704584045550/CheckoutTime
 ![This is an image](Checkout_Times_for_Users.png) 
 
 
+![This is an image](Checkout_Times_by_Gender.png) 
 
 
+![This is an image](Trips_by_Weekday_for_Each_Hour.png) 
 
 
 ## Summary: 
