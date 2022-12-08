@@ -6,9 +6,13 @@ In this project, I will create a Tableau story aimed to convince investors that 
 ## Results: 
  
 ### Link to Tableau Public:
+
+The following link gives access to visit the Tableau file create to visualize bikesharing data.
  
 https://public.tableau.com/views/ChallengeAssignment_16704584045550/CheckoutTimesforUsers?:language=en-US&:display_count=n&:origin=viz_share_link
- 
+  
+Below I provided some details on the results of the analysis.
+
 ### Checkout Times for Users:
  
 The chart shows that the majority of bike rides lasted for less than hour where the highest number of rides being for 5 minutes.
